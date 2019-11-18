@@ -4,6 +4,7 @@ Simple image based on Debian 10 with some usefull network utilities.
 
 Available packages:
 -------------------
+- iputils-ping
 - nmap 
 - telnet 
 - ssh 
