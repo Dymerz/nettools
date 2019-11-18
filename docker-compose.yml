@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  nettools:
+    build: .
+    container_name: nettools:latest
+    image: dymerz/nettools:latest
