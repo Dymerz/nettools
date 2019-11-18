@@ -1,6 +1,6 @@
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dymerz/nettools)
 
-Simple image based on Debian 10 with some usefull network utilities.
+Simple image based on **Debian 10** with some useful network utilities.
 
 Available packages:
 -------------------
